@@ -1,0 +1,23 @@
+site_name: Moonlist Docs
+site_url: https://example.com/
+
+repo_url: https://github.com/VadyChel/MoonlistDocs
+repo_name: VadyChel/MoonlistDocs
+
+copyright: Copyright &copy; 2021
+
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: deep orange
+  plugins:
+    - search:
+  features:
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
