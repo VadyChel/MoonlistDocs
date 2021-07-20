@@ -96,6 +96,7 @@
 | currently         | `integer`            | sagfas |
 | added_at          | `datetime`           | agfafa |
 | short_description | `string`             | sfs asf |
+| owners_are_hidden | `boolean`            | g |
 | description       | `string`             | faa 
 | invite            | `BotInvite`          | faa 
 | prefix            | `string`             | faa 
@@ -118,6 +119,7 @@
   "bot_id": "813065963003052073",
   "count_bumps": 56,
   "currently": 2,
+  "owners_are_hidden": false,
   "added_at": "2021-01-01T20:20:00.000000",
   "short_description": "This is a short description",
   "description": "This is a long description",
